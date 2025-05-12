@@ -1,8 +1,8 @@
-import React from "react";
-import styled from "styled-components/native";
+import React from 'react';
+import styled from 'styled-components/native';
 
 const FooterContainer = styled.View`
-  background-color: #00838F;
+  background-color: #00838f;
   padding: 15px 0;
   width: 100%;
   align-items: center;
